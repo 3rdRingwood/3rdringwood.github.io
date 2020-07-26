@@ -1,5 +1,6 @@
 ---
 title: "Waiting List Policy"
+short_title: "Waiting List"
 group: navigation
 order: 10
 ---
