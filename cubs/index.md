@@ -9,7 +9,7 @@ order: 30
 | Written by Bagheera    |
 |
 
-![](/assets/img/scouts/Cub_RGB_green.png){:width="200px"}
+![](/assets/img/scouts/Cub_RGB_green.png){:width="300px"}
 
 # Leaders
 

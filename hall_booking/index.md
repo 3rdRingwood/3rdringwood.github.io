@@ -4,7 +4,7 @@ group: navigation
 order: 90
 ---
 
-Please Contact [Ann](mailto:ann@thegillams.co.uk)
+Please Contact [Ann](mailto:ann@thegillams.co.uk?subject=Hall%20booking)
 
 The hall has recently been redecorated and modernised, making it even more attractive to hire for children's parties, receptions, social events, clubs, meetings, dancing classes, martial arts, and other activities.
 
