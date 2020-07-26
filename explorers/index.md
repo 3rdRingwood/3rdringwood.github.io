@@ -1,5 +1,6 @@
 ---
 title: "Smugglers Explorer Scouts"
+short_title: "Explorers"
 group: navigation
 order: 50
 ---
