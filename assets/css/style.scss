@@ -1,10 +1,37 @@
 ---
 ---
 
+// $primary: #159957;
+$primary: #7414dc;
+
+// Breakpoints
+$large-breakpoint: 64em !default;
+$medium-breakpoint: 42em !default;
+
+// Headers
+$header-heading-color: #fff !default;
+$header-bg-color: $primary !default;
+$header-bg-color-secondary: #155799 !default;
+
+// Text
+$section-headings-color: $primary !default;
+$body-text-color: #606c71 !default;
+$body-link-color: #1e6bb8 !default;
+$blockquote-text-color: #819198 !default;
+
+// Code
+$code-bg-color: #f3f6fa !default;
+$code-text-color: #567482 !default;
+
+// Borders
+$border-color: #dce6f0 !default;
+$table-border-color: #e9ebec !default;
+$hr-border-color: #eff0f1 !default;
+
 @import "{{ site.theme }}";
 
 .page-header {
-  background-image: linear-gradient(120deg, #159957, #155799);
+  background-image: linear-gradient(120deg, #fdc91f, #003bfb);
   padding: 2rem;
   display: flex;
   flex-wrap: wrap;
@@ -40,8 +67,7 @@ nav.page-header-links ul {
   justify-content: space-around;
   width: 100%;
   list-style: none;
-  border-bottom: 1px solid black;
-  background-color: black;
+  background-color: #04045c;
   &,
   a {
     color: white;
@@ -55,7 +81,7 @@ nav.page-header-links ul {
   li:hover,
   li:active,
   li.active {
-    background-color: #159957;
+    background-color: #315ff6;
   }
 }
 .main-content {
