@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+
+github:
+  repository_url: https://github.com/3rdRingwood/3rdringwood.github.io
+
+lang: en-GB
+
+title: 3rd Ringwood Scout Group
+description: Exploring the Great Outdoors!
+
+defaults:
+  - values:
+      order: 999999
