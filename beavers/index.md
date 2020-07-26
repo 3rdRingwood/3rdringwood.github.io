@@ -4,7 +4,7 @@ group: navigation
 order: 20
 ---
 
-# Welcome to 3rd Ringwood Beavers
+## Welcome to 3rd Ringwood Beavers
 
 ![](/assets/img/scouts/Beaver_RGB_multi.png){:width="300px"}
 
