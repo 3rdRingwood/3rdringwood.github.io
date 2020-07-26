@@ -1,31 +1,29 @@
 ---
-title: "Cubs"
+title: "Welcome to 3rd Ringwood 'Rama' Cub Pack"
+short_title: "Cubs"
 group: navigation
 order: 30
 ---
 
-| Welcome to 3rd Ringwood 'Rama' Cub Pack |
-
-| Written by Bagheera    |
-|
+_Written by Bagheera_
 
 ![](/assets/img/scouts/Cub_RGB_green.png){:width="300px"}
 
 ## Leaders
 
-* **Cub Scout Leader** - David R (Akela)
+- **Cub Scout Leader** - David R (Akela)
 
-* **Assistant Cub Scout Leader** - Kay (Kaa)
+- **Assistant Cub Scout Leader** - Kay (Kaa)
 
-* **Assistant Cub Scout Leader** - Angela (Raksha)
+- **Assistant Cub Scout Leader** - Angela (Raksha)
 
-* **Assistant Cub Scout Leader** - Craig (Bungo)
+- **Assistant Cub Scout Leader** - Craig (Bungo)
 
-* **Assistant Cub Scout Leader** - Faye (Baloo)**
+- **Assistant Cub Scout Leader** - Faye (Baloo)\*\*
 
-* **Section Assistant** - Ann (Bagheera)
+- **Section Assistant** - Ann (Bagheera)
 
-* **Section Assistant** - Adrian (Hathi)
+- **Section Assistant** - Adrian (Hathi)
 
 ## Useful Information and Links
 
@@ -66,7 +64,5 @@ All Sixes together 6.00 - 7.30pm (until further notice).
 **and do a good turn everyday.**
 
 ### The Scout Motto
-
-
 
 **Be Prepared**
