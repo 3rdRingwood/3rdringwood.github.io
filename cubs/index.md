@@ -11,23 +11,23 @@ order: 30
 
 ![](/assets/img/scouts/Cub_RGB_green.png){:width="300px"}
 
-# Leaders
+## Leaders
 
-#### Cub Scout Leader - David R (Akela)
+* **Cub Scout Leader** - David R (Akela)
 
-#### Assistant Cub Scout Leader - Kay (Kaa)
+* **Assistant Cub Scout Leader** - Kay (Kaa)
 
-#### Assistant Cub Scout Leader - Angela (Raksha)
+* **Assistant Cub Scout Leader** - Angela (Raksha)
 
-#### Assistant Cub Scout Leader - Craig (Bungo)
+* **Assistant Cub Scout Leader** - Craig (Bungo)
 
-**Assistant Cub Scout Leader - Faye (Baloo)**
+* **Assistant Cub Scout Leader** - Faye (Baloo)**
 
-#### Section Assistant - Ann (Bagheera)
+* **Section Assistant** - Ann (Bagheera)
 
-#### Section Assistant - Adrian (Hathi)
+* **Section Assistant** - Adrian (Hathi)
 
-# Useful Information and Links
+## Useful Information and Links
 
 ### RAMA PACK will meet on Tuesday evenings as follows:
 
@@ -35,7 +35,7 @@ All Sixes together 6.00 - 7.30pm (until further notice).
 
 ---
 
-# Programme 2020: Parents may view on Online Scout Manager
+### Programme 2020: Parents may view on Online Scout Manager
 
 ---
 
@@ -43,11 +43,11 @@ All Sixes together 6.00 - 7.30pm (until further notice).
 
 ---
 
-# Position of badges on uniform (Cub Scouts)
+### Position of badges on uniform (Cub Scouts)
 
 ![](http://scouts.org.uk/images/content/Uniforms/Cub%20Uniform%20v5%20copy.jpg)
 
-## **The Cub Scout Promise**
+### The Cub Scout Promise
 
 **I promise that I will do my best,**
 
@@ -57,7 +57,7 @@ All Sixes together 6.00 - 7.30pm (until further notice).
 
 **and to keep the Cub Scout Law.**
 
-## **The Cub Scout Law**
+### The Cub Scout Law
 
 **Cub Scouts always do their best**
 
@@ -65,11 +65,8 @@ All Sixes together 6.00 - 7.30pm (until further notice).
 
 **and do a good turn everyday.**
 
-**The Scout Motto\
-**
+### The Scout Motto
 
----
+
 
 **Be Prepared**
-
-|
