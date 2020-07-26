@@ -1,6 +1,6 @@
 ---
 title: "Data Protection and Privacy Policy (GDPR)"
-short_title: "Data & Privacy (GDPR)"
+short_title: "GDPR"
 group: navigation
 order: 60
 ---
