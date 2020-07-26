@@ -34,7 +34,7 @@
 
 nav.page-header-links ul {
   margin: 0;
-  padding: 0;
+  padding: 0.25rem;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
@@ -49,7 +49,7 @@ nav.page-header-links ul {
   }
   li {
     padding: 0.25rem 0.5rem;
-    margin: 0.25rem 0.5rem;
+    margin: 0.25rem 0.25rem;
     border-radius: 1rem;
   }
   li:hover,
