@@ -13,7 +13,7 @@ order: -1
 
 **Headlands group camp - cancelled this year, but back from Friday 18th - Sunday 20th June 2021**
 
-Please visit the section pages on the black banner above for more information on forthcoming activities
+Please visit the section pages on the blue banner above for more information on forthcoming activities
 
 [Beaver Scouts](/beavers/) - the youngest section. Ages range from 6 to 8 years (Meet Thursdays at 3rd Ringwood Scout HQ)
 
