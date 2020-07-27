@@ -20,13 +20,13 @@ Thursday 17:15 to 18:30
 
 * **Assistant Beaver Scout Leader**: David E (Orinoco)
 
-* **Assistant Beaver Scout Leader**: Peter D (Livingstone)
+* **Assistant Beaver Scout Leader**: Mark K (Tobermory)
 
-* **Assistant Beaver Scout Leader**: Faye H (Rusty)
+* **Assistant Beaver Scout Leader**: Mark C (Tomsk)
 
-* **Assistant Beaver Scout Leader**: Mark K
+* **Assistant Beaver Scout Leader**: vacant
 
-* **Explorer Young Leaders**: Sophie E, George P
+* **Explorer Young Leaders**: tbc
 
 ## Useful Information and Links
 
