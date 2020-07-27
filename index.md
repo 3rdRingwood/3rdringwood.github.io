@@ -7,11 +7,11 @@ order: -1
 
 ## LATEST NEWS
 
-**New Forest West Scout Shop sells uniform, etc. from Strides Lane Scout HQ (on the footpath between Market Place and end of Bickerley) generally fortnightly on Saturday mornings 10am - 12 midday.**
+**Current Covid-19 level - Amber. Hope to restart September 2020**
 
-**Spring 2020 NFW Scout Shop dates - 8th Feb, 22nd Feb, 7th Mar, 21st Mar, 4th Apr. (If able to help at the shop, please contact Roger, 01425 474837).**
+**New Forest West Scout Shop is closed. (Please contact Roger, 01425 474837)**
 
-**Headlands group camp Friday 19th - Sunday 21st June**
+**Headlands group camp - cancelled this year, but back from Friday 18th - Sunday 20th June 2021**
 
 Please visit the section pages on the black banner above for more information on forthcoming activities
 
