@@ -4,7 +4,7 @@ group: navigation
 order: 70
 ---
 
-Please replace `A` with `@` and `D` with `.` in these addresses (added to reduce spam).
+Please replace `A` with `@` and `D` with `.` in the email address (added to reduce spam).
 
 | #   | Name                | Position                                                 | Email                       |
 | --- | ------------------- | -------------------------------------------------------- | --------------------------- |
