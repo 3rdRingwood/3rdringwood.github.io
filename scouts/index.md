@@ -5,7 +5,7 @@ order: 40
 ---
 
 ![](/assets/img/scouts/Scouts_RGB_green.png){:width="300px"}
-## Welcome to 3rd Ringwood Beavers
+## Welcome to 3rd Ringwood Scouts
 
 ## Leaders
 
