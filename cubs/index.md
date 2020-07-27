@@ -1,13 +1,12 @@
 ---
-title: "Welcome to 3rd Ringwood 'Rama' Cub Pack"
 short_title: "Cubs"
 group: navigation
 order: 30
 ---
 
-_Written by Bagheera_
-
 ![](/assets/img/scouts/Cub_RGB_green.png){:width="300px"}
+
+title: "Welcome to 3rd Ringwood 'Rama' Cub Pack"
 
 ## Leaders
 
