@@ -28,6 +28,8 @@ order: 40
 
 ## [Click *here* for Scout Activity Badges](https://www.scouts.org.uk/scouts/activity-badges/)
 
+## [Click *here* for Scout Awards](https://www.scouts.org.uk/scouts/awards/)
+
 ### Position of Scout badges on uniform
 
 ![Scout Badge positions](https://members.scouts.org.uk/documents/Scout-Uniform_Scout-Uniform.jpg)
