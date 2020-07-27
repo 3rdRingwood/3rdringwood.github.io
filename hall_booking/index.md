@@ -14,7 +14,7 @@ The smaller Meeting Room may occasionally be hired separately. It measures appro
 
 The kitchen is equipped with a hob, cooker, refrigerator, microwave, sink, hot and cold running water. (Mugs and kettles may be available on request).
 
-Toilets. Three - Ladies, Gents and Disabled - all with hot and cold water, soap, paper towel dispensers, hot air hand driers.
+Toilets. Three - Ladies, Gents and Disabled (with baby changing facility) - all with hot and cold water, soap, paper towel dispensers, hot air hand driers.
 
 The hall has car parking space for up to 18 cars.
 
