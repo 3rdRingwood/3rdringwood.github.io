@@ -1,12 +1,12 @@
 ---
-short_title: "Cubs"
+title: "Cubs"
 group: navigation
 order: 30
 ---
 
 ![](/assets/img/scouts/Cub_RGB_green.png){:width="300px"}
 
-Welcome to 3rd Ringwood 'Rama' Cub Pack
+## Welcome to 3rd Ringwood 'Rama' Cub Pack
 
 ## Leaders
 

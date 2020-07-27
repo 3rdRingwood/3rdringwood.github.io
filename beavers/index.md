@@ -1,4 +1,5 @@
 ---
+title: "Beavers"
 short_title: "Beavers"
 group: navigation
 order: 20
