@@ -17,9 +17,7 @@ _Written by Bagheera_
 
 - **Assistant Cub Scout Leader** - Angela (Raksha)
 
-- **Assistant Cub Scout Leader** - Craig (Bungo)
-
-- **Assistant Cub Scout Leader** - Faye (Baloo)\*\*
+- **Assistant Cub Scout Leader** - Faye (Baloo)
 
 - **Section Assistant** - Ann (Bagheera)
 
@@ -27,9 +25,7 @@ _Written by Bagheera_
 
 ## Useful Information and Links
 
-### RAMA PACK will meet on Tuesday evenings as follows:
-
-All Sixes together 6.00 - 7.30pm (until further notice).
+### RAMA PACK will meet on Tuesday evenings 6.00 - 7.30pm.
 
 ---
 
@@ -41,9 +37,9 @@ All Sixes together 6.00 - 7.30pm (until further notice).
 
 ---
 
-### Position of badges on uniform (Cub Scouts)
+### Position of Cub badges on uniform
 
-![](http://scouts.org.uk/images/content/Uniforms/Cub%20Uniform%20v5%20copy.jpg)
+![Cub Badge positions](https://members.scouts.org.uk/documents/Cub-Scout-Uniform_Cub-Scout-Uniform.jpg)
 
 ### The Cub Scout Promise
 
