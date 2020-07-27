@@ -1,5 +1,5 @@
 ---
-title: "Contacts"
+title: "Contact us"
 group: navigation
 order: 70
 ---
