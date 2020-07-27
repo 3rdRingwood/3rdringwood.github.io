@@ -25,4 +25,4 @@ Please visit the section pages on the blue banner above for more information on 
 
 [Scout Network](https://www.hampshirescouting.org.uk/youth-programme/scout-network/) - Age range from 18 to 25 years (Contact County HQ for info)
 
-For all enquiries please use '[Contacts](/contacts/)'
+For all enquiries please use '[Contact us](/contacts/)'
