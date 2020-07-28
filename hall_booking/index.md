@@ -38,6 +38,7 @@ Hire rates - main hall from £12 per hour. Party rates from £36. Meeting Room f
 ![](/assets/img/scouts/Hall 10 paddock 2.png)
 ![](/assets/img/scouts/Hall 11 paddock 3.png)
 ![](/assets/img/scouts/Hall 12 paddock 4.png)
+![](/assets/img/scouts/Hall 13 car park.png)
 ![](/assets/img/hall/hall2.png)
 ![](/assets/img/hall/hall3.png)
 ![](/assets/img/hall/hall4.png)
