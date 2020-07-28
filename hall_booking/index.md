@@ -26,7 +26,7 @@ Important Notice re Covid-19. The hall is deep-cleaned a minimum of once a week 
 
 Hire rates - main hall from £12 per hour. Party rates from £36. Meeting Room from £6 per hour. (Separate deposit of £50 required against risk of damage (refundable after satisfactory inspection))
 
-![](/assets/img/hall/hall1.png)
+![](/assets/img/scouts/Hall 1 main hall S.png)
 ![](/assets/img/hall/hall2.png)
 ![](/assets/img/hall/hall3.png)
 ![](/assets/img/hall/hall4.png)
