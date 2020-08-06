@@ -32,7 +32,7 @@ order: 30
 
 ---
 
-## [Click *here* for Cub Badges and Awards achievable](http://scouts.org.uk/supportresources/search?cat=12,67 "Cub Badges and Awards achievable")
+## [Click *here* for Cub Badges and Awards achievable](https://members.scouts.org.uk/supportresources/search/?cat=12,67"Cub Badges and Awards achievable")
 
 ---
 
