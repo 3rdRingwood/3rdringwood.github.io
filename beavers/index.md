@@ -13,7 +13,7 @@ order: 20
 
 ## Meeting
 
-Thursday 17:15 to 18:30
+Thursday 17:15 to 18:30 (or as advised during the pandemic)
 
 ## Leaders
 
@@ -25,7 +25,9 @@ Thursday 17:15 to 18:30
 
 * **Assistant Beaver Scout Leader**: Mark C (Tomsk)
 
-* **Assistant Beaver Scout Leader**: vacant
+* **Assistant Beaver Scout Leader**: Charmaine B
+
+* **Assistant Beaver Scout Leader**: Tom B
 
 * **Explorer Young Leaders**: tbc
 
