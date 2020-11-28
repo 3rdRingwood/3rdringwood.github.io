@@ -7,11 +7,9 @@ order: -1
 
 ## LATEST NEWS
 
-**Current Covid-19 level - Amber. Hope to restart September 2020**
+**Current Covid-19 level - Amber/Tier 2 (see updates on OSM)**
 
-**New Forest West Scout Shop is closed. (Please contact Roger, 01425 474837)**
-
-**Headlands group camp - cancelled this year, but back from Friday 18th - Sunday 20th June 2021**
+**New Forest West Scout Shop is closed.**
 
 Please visit the section pages on the blue banner above for more information on forthcoming activities
 
