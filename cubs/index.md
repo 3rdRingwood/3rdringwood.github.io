@@ -24,7 +24,7 @@ order: 30
 
 ## Useful Information and Links
 
-### RAMA PACK will meet on Tuesday evenings 6.00 - 7.30pm.
+### RAMA PACK will meet on Tuesday evenings 6.00 - 7.30pm (or as advised during the pandemic).
 
 ---
 
