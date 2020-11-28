@@ -25,7 +25,7 @@ order: 40
 
 - **Group Scout Leader** - Dave G (Skipper)
 
-### Scouts meet on Friday evenings 7.00 - 9.00pm.
+### Scouts meet on Friday evenings 7.00 - 9.00pm (or as advised during the pandemic).
 
 ### Programme 2020/21: Parents may view on Online Scout Manager
 
