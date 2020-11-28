@@ -11,15 +11,15 @@ order: -1
 
 **New Forest West Scout Shop is closed.**
 
-Please visit the section pages on the blue banner above for more information on forthcoming activities
+Please click the buttons on the blue banner above for more information on our youth sections
 
-[Beaver Scouts](/beavers/) - the youngest section. Ages range from 6 to 8 years (Meet Thursdays at 3rd Ringwood Scout HQ)
+[Beaver Scouts](/beavers/) - the youngest section. Ages range from 6 to 8 years (Meet Thursdays)
 
-[Cub Scouts](/cubs/) - Ages range from 8 to 10.5 years (Meet Tuesdays at 3rd Ringwood Scout HQ)
+[Cub Scouts](/cubs/) - Ages range from 8 to 10.5 years (Meet Tuesdays)
 
-[Scouts](/scouts/) - Age range from 10.5 to 14 years (Meet Fridays at 3rd Ringwood Scout HQ)
+[Scouts](/scouts/) - Age range from 10.5 to 14 years (Meet Fridays)
 
-[Explorer Scouts](/explorers/) - Age range from 14 to 18 years (Meet Mondays at Burley Scout HQ)
+[Explorer Scouts](/explorers/) - Age range from 14 to 18 years (Meet Mondays)
 
 [Scout Network](https://www.hampshirescouting.org.uk/youth-programme/scout-network/) - Age range from 18 to 25 years (Contact County HQ for info)
 
