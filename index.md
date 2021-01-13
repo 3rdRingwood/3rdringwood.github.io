@@ -7,9 +7,7 @@ order: -1
 
 ## LATEST NEWS
 
-**Current Covid-19 level - Amber/Tier 2 (28/11/2020)(see updates on OSM)**
-
-**New Forest West Scout Shop is closed.**
+**Current Covid-19 level - Red/Tier 4 (05/01/2021)(see updates on OSM)**
 
 Please click the buttons on the blue banner above for more information on our youth sections
 
