@@ -7,7 +7,12 @@ order: -1
 
 ## LATEST NEWS
 
-**Current Covid-19 level - Red/Tier 4 (05/01/2021)(see updates on OSM)**
+**Current Covid-19 level - Amber/Tier 4 (29/03/2021)(see updates on OSM)**
+
+Amber Readiness Level
+From 29/03/21, section meetings can take place outdoors only with size limited to one section only. This includes non-social Scout Network activities.
+
+For adult activities with no young people present, the rule of six applies. Small sections may join with one other section if it is not viable to run alone. The number of adults present to support Scouting should be limited to what is necessary.
 
 Please click the buttons on the blue banner above for more information on our youth sections
 
