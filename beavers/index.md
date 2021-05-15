@@ -17,17 +17,19 @@ Thursday 17:15 to 18:30 (or as advised during the pandemic)
 
 ## Leaders
 
-- **Beaver Scout Leader**: Robyn C (Maddie). Email <3rdringwoodbeavers@gmail.com>
+- **Beaver Scout Leader**: Mark C (Tomsk). Email <3rdringwoodbeavers@gmail.com>
 
 * **Assistant Beaver Scout Leader**: David E (Orinoco)
 
 * **Assistant Beaver Scout Leader**: Mark K (Tobermory)
 
-* **Assistant Beaver Scout Leader**: Mark C (Tomsk)
+* **Assistant Beaver Scout Leader**: Robyn C (Maddie)
 
 * **Assistant Beaver Scout Leader**: Charmaine B
 
 * **Assistant Beaver Scout Leader**: Tom B
+
+* **Assistant Beaver Scout Leader**: Sarah C
 
 * **Explorer Young Leaders**: tbc
 
