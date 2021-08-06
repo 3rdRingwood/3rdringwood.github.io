@@ -26,7 +26,7 @@ Important Notice re Covid-19. The hall is deep-cleaned a minimum of once a week 
 
 Hire rates - main hall from £12 per hour. Party rates from £40. Meeting Room from £6 per hour, minimum 2 hours. (Separate deposit of £50 required against risk of damage (refundable after satisfactory inspection))
 
-![](/assets/img/scouts/Hall 13 car park new.png)
+![](/assets/img/scouts/Hall 13 car park 8/21.png)
 ![](/assets/img/scouts/Hall 1 main hall S.png)
 ![](/assets/img/scouts/Hall 2 main hall N.png)
 ![](/assets/img/scouts/Hall 3 meeting room.png)
@@ -34,8 +34,9 @@ Hire rates - main hall from £12 per hour. Party rates from £40. Meeting Room f
 ![](/assets/img/scouts/Hall 6 lobby.png)
 ![](/assets/img/scouts/Hall 7 bifold door.png)
 ![](/assets/img/scouts/Hall 8 Disabled loo.png)
-![](/assets/img/scouts/Hall 9 paddock 1.png)
-![](/assets/img/scouts/Hall 10 paddock 2.png)
-![](/assets/img/scouts/Hall 11 paddock 3.png)
-![](/assets/img/scouts/Hall 12 paddock 4.png)
-
+![](/assets/img/scouts/Hall 9 paddock 8/21.png)
+![](/assets/img/scouts/Hall 10 paddock 8/21.png)
+![](/assets/img/scouts/Hall 11 paddock 8/21.png)
+![](/assets/img/scouts/Hall 12 paddock 8/21.png)
+![](/assets/img/scouts/Hall 14 paddock 8/21.png)
+![](/assets/img/scouts/Hall 15 paddock 8/21.png)
