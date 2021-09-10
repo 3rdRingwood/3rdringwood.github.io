@@ -7,12 +7,12 @@ order: -1
 
 ## LATEST NEWS
 
-**Current Covid-19 level - Amber (updated 14/05/2021)(see updates on OSM)**
+**Current Covid-19 level - Green (updated 06/09/2021)(see updates on OSM)**
 
-Amber Readiness Level.
-Section meetings can take place indoors or outdoors with unlimited numbers - but restricted to one section only. This includes non-social Scout Network activities.
+Green Readiness Level.
+Section meetings can take place indoors or outdoors with unlimited numbers.
 
-For adult activities with no young people present, the rule of six applies. Small sections may join with one other section only if it is not viable to run alone. The number of adults present to support Scouting should be limited to what is necessary.
+All activities must be able to safely manage the risk of transmission of COVID and, if this is not possible, they must not take place. 
 
 Please click the buttons on the blue banner above for more information on our youth sections
 
