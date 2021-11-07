@@ -35,4 +35,4 @@ order: 40
 
 ### Position of Scout badges on uniform
 
-![Scout Badge positions](https://members.scouts.org.uk/documents/Scout-Uniform_Scout-Uniform.jpg)
+![Scout Badge positions](https://cms.scouts.org.uk/media/15131/4-scouts_uniform-diagrams_sept2021_portrait.png)
