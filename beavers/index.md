@@ -48,4 +48,4 @@ I promise to do my best
 - [Badges and Awards](http://scouts.org.uk/supportresources/search?cat=11,18 "Beaver Badges")
 
 - Badge Positions
-  ![Beaver Badge Positions](https://members.scouts.org.uk/documents/Beaver-Scout-Uniform_Beaver-Scout-Uniform.jpg)
+  ![Beaver Badge Positions](https://cms.scouts.org.uk/media/15129/2-beaver_uniform-diagrams_sept2021_portrait.png)
