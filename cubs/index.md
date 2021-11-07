@@ -38,7 +38,7 @@ order: 30
 
 ### Position of Cub badges on uniform
 
-![Cub Badge positions](https://members.scouts.org.uk/documents/Cub-Scout-Uniform_Cub-Scout-Uniform.jpg)
+![Cub Badge positions](https://prod-cms.scouts.org.uk/media/15107/3-cubs_uniform-diagrams_sept2021_portrait.png)
 
 ### The Cub Scout Promise
 
