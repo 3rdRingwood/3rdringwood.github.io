@@ -44,7 +44,7 @@ order: 30
 
 **I promise that I will do my best,**
 
-**to do my duty to God and to the Queen,**
+**to do my duty to God and to the King,**
 
 **to help other people**
 
