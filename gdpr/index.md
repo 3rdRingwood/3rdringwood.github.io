@@ -12,7 +12,7 @@ order: 60
 
 #### Who is this for and what does it apply to?
 
-The current Data Protection (DP) regulations are being updated in May 2018 to be consistent with European legislation known as the General Data Protection Regulation (GDPR). Data Protection regulation applies to all organisations that hold any information that identifies living people.
+The current Data Protection (DP) regulations were updated in May 2018 to be consistent with European legislation known as the General Data Protection Regulation (GDPR). Data Protection regulation applies to all organisations that hold any information that identifies living people.
 
 DP rules do not apply to organisations holding only organisation data, with no names attached and the rules do not apply to individuals holding address books or, for example, Christmas Card lists on computer.
 
