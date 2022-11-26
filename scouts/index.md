@@ -36,3 +36,15 @@ order: 40
 ### Position of Scout badges on uniform
 
 ![Scout Badge positions](https://cms.scouts.org.uk/media/15131/4-scouts_uniform-diagrams_sept2021_portrait.png)
+
+### The Scout Promise
+
+**On my honour,**
+
+**I promise that I will do my best**
+
+**to do my duty to God and to The King**
+
+**to help other people**
+
+**and to keep the Scout Law**
