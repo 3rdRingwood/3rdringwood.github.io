@@ -12,13 +12,15 @@ order: 30
 
 - **Cub Scout Leader** - David R (Akela)
 
-- **Assistant Cub Scout Leader** - Kay (Kaa)
-
 - **Assistant Cub Scout Leader** - Angela (Raksha)
 
 - **Assistant Cub Scout Leader** - Faye (Baloo)
 
+- **Assistant Cub Scout Leader** - Sam (Shere Khan)
+
 - **Section Assistant** - Ann (Bagheera)
+
+- **Section Assistant** - Emily (Mysa)
 
 - **Section Assistant** - Adrian (Hathi)
 
@@ -28,7 +30,7 @@ order: 30
 
 ---
 
-### Programme 2021: Parents may view on Online Scout Manager
+### Programme 2023: Parents may view on Online Scout Manager
 
 ---
 
