@@ -17,7 +17,9 @@ Thursday 17:15 to 18:30 (or as advised during the pandemic)
 
 ## Leaders
 
-- **Beaver Scout Leader**: Mark C (Tomsk). Email <3rdringwoodbeavers@gmail.com>
+- **Beaver Scout Leader**: Sarah (Nessie). Email <3rdringwoodbeavers@gmail.com>
+
+* **Assistant Beaver Scout Leader**: Mark C (Tomsk).
 
 * **Assistant Beaver Scout Leader**: David E (Orinoco)
 
@@ -25,11 +27,11 @@ Thursday 17:15 to 18:30 (or as advised during the pandemic)
 
 * **Assistant Beaver Scout Leader**: Robyn C (Maddie)
 
-* **Assistant Beaver Scout Leader**: Charmaine B
+* **Assistant Beaver Scout Leader**: Charmaine B (Alderney)
 
-* **Assistant Beaver Scout Leader**: Tom B
+* **Assistant Beaver Scout Leader**: Tom B (Hoboken)
 
-* **Assistant Beaver Scout Leader**: Sarah C
+* **Assistant Beaver Scout Leader**: Stuart (Hirado)
 
 * **Explorer Young Leaders**: tbc
 
