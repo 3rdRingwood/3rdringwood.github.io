@@ -17,17 +17,17 @@ order: 40
 
 - **Assistant Scout Leader** - Stephen (Wellie)
 
-- **Assistant Scout Leader** - Rebecca A (Bex)
-
 - **Assistant Scout Leader** - Will H
 
 - **Assistant Scout Leader** - Pete D
+
+- **Section Assistant** - Sam J
 
 - **Group Scout Leader** - Dave G (Skipper)
 
 ### Scouts meet on Friday evenings 7.00 - 9.00pm (or as advised during the pandemic).
 
-### Programme 2022: Parents may view on Online Scout Manager
+### Programme 2023: Parents may view on Online Scout Manager
 
 ## [Click *here* for Scout Activity Badges](https://www.scouts.org.uk/scouts/activity-badges/)
 
