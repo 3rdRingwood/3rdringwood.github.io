@@ -22,11 +22,9 @@ order: 30
 
 - **Section Assistant** - Emily (Mysa)
 
-- **Section Assistant** - Adrian (Hathi)
-
 ## Useful Information and Links
 
-### RAMA PACK will meet on Tuesday evenings 6.00 - 7.30pm (or as advised during the pandemic).
+### RAMA PACK will meet on Tuesday evenings 6.00 - 7.30pm (or as advised).
 
 ---
 
