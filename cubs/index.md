@@ -18,6 +18,8 @@ order: 30
 
 - **Assistant Cub Scout Leader** - Sam (Shere Khan)
 
+- **Assistant Cub Scout Leader** - Darren Corcoran
+
 - **Section Assistant** - Ann (Bagheera)
 
 - **Section Assistant** - Emily (Mysa)
