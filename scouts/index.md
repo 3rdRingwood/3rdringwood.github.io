@@ -27,7 +27,7 @@ order: 40
 
 ### Scouts meet on Friday evenings 7.00 - 9.00pm (or as advised during the pandemic).
 
-### Programme 2023: Parents may view on Online Scout Manager
+### Programme 2024: Parents may view on Online Scout Manager
 
 ## [Click *here* for Scout Activity Badges](https://www.scouts.org.uk/scouts/activity-badges/)
 
