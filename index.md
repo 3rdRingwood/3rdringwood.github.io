@@ -7,13 +7,6 @@ order: -1
 
 ## LATEST NEWS
 
-**Current Covid-19 level - Green (updated 26/11/2022)(see updates on OSM)**
-
-Green Readiness Level.
-Section meetings can continue to take place indoors or outdoors with unlimited numbers.
-
-All activities must be able to safely manage the risk of transmission of COVID and, if this is not possible, they must not take place. 
-
 Please click the buttons on the blue banner above for more information on our youth sections
 
 [Beaver Scouts](/beavers/) - Ages range from 6 to 8 years (Meet Thursdays)
