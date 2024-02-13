@@ -15,6 +15,12 @@ order: 20
 
 Thursday 17:15 to 18:30 (or as advised during the pandemic)
 
+---
+
+### Programme 2024: Parents may view on Online Scout Manager
+
+---
+
 ## Leaders
 
 - **Beaver Scout Leader**: Sarah (Nessie). Email <3rdringwoodbeavers@gmail.com>
