@@ -24,7 +24,7 @@ There is a fully enclosed grass paddock to the rear of the hall.
 
 Cleaning and Covid transmission. All hall users are responsible for ensuring that frequently touched surfaces (e.g. light switches, door handles, toilets, etc.) are cleaned to their own satisfaction before and after use of the hall. All bins must be emptied and rubbish removed from the site as there is no waste collection. Users must leave the hall in a clean and tidy condition for the next user and they should allow a little extra time for this within their hire time.
 
-Hire rates - from £12 per hour. Party rates from £40. (Separate deposit of £50 required against risk of damage (refundable after satisfactory inspection))
+Hire rates - from £13 per hour. Party rates from £45. (Separate deposit of £50 required against risk of damage (refundable after satisfactory inspection))
 
 (NB Children's Party hirers should note that the hall has insufficient height to accommodate all but the very smallest of bouncy castles. Any use of bouncy castles on the premises will require a copy of the provider's insurance indemnity in addition to a signed agreement with appropriate extra T's & C's).
 
