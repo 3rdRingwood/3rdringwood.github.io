@@ -12,13 +12,13 @@ The hall has recently been redecorated and modernised, making it a clean and att
 
 The main hall measures approximately 11.35 metres x 7.1 metres. It is well lit, with sound dampening acoustic baffles, a modern heating system, double glazed windows, roller blinds, wooden floor, lightweight folding tables, 60 stacking chairs, plenty of electric sockets, etc.
 
-The Meeting Room measures approx 4m x 4m, and is equipped with whiteboard, tables and chairs.
+The Meeting Room measures approx 4m x 4m, and is equipped with whiteboard, tables and chairs. (No longer available for separate hire)
 
 The kitchen is equipped with a hob, cooker, refrigerator, microwave, kettles, sink, hot and cold running water. (Mugs are available but not other crockery).
 
 Toilets. Three - Ladies, Gents and Disabled (with baby changing facility) - all with hot and cold water, soap, paper towel dispensers, hot air hand driers.
 
-The hall has car parking space for up to 18 cars.
+The hall has car parking space for up to 18 cars, if you include the gravel area left of the lobby door.
 
 There is a fully enclosed grass paddock to the rear of the hall.
 
