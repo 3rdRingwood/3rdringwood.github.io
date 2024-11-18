@@ -9,6 +9,8 @@ order: -1
 
 Please click the buttons on the blue banner above for more information on our youth sections
 
+[Squirrel Scouts](/squirrels/) - Ages range from 4 to 6 years (Meet Fridays)
+
 [Beaver Scouts](/beavers/) - Ages range from 6 to 8 years (Meet Thursdays)
 
 [Cub Scouts](/cubs/) - Ages range from 8 to 10.5 years (Meet Tuesdays)
