@@ -10,19 +10,19 @@ order: 30
 
 ## Leaders
 
-- **Cub Scout Leader** - David R (Akela)
+- **Cub Team Leader** - David R (Akela)
 
-- **Assistant Cub Scout Leader** - Angela (Raksha)
+- **Cub Team Member** - Angela (Raksha)
 
-- **Assistant Cub Scout Leader** - Faye (Baloo)
+- **Cub Team Member** - Faye (Baloo)
 
-- **Assistant Cub Scout Leader** - Sam (Shere Khan)
+- **Cub Team Member** - Sam (Shere Khan)
 
-- **Assistant Cub Scout Leader** - Darren (Kaa)
+- **Cub Team Member** - Darren (Kaa)
 
-- **Section Assistant** - Ann (Bagheera)
+- **Cub Team Member** - Ann (Bagheera)
 
-- **Section Assistant** - Emily (Mysa)
+- **Cub Team Member** - Emily (Mysa)
 
 ## Useful Information and Links
 
