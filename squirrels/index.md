@@ -13,7 +13,7 @@ order: 20
 
 ## Meeting
 
-time
+Squirrels meet on Friday evenings 5.00 - 6.00pm (occasionally Saturday mornings - as advised)
 
 ---
 
@@ -23,17 +23,17 @@ time
 
 ## Leaders
 
-- **Squirrel Team Leader**: 
+- **Squirrel Team Leader**: Pete D (Peter Rabbit)
 
-* **Squirrel Team Member**: 
+* **Squirrel Team Member**: Abigail M ()
 
-* **Squirrel Team Member**: 
+* **Squirrel Team Member**: Felicity K (Mopsy)
 
-* **Squirrel Team Member**: 
+* **Squirrel Team Member**: Lucy AM ()
 
-* **Squirrel Team Member**: 
+* **Squirrel Team Member**: Sue E (Flopsy)
 
-* **Squirrel Team Member**: 
+* **Squirrel Team Member**: Claire D ()
 
 * **Explorer Young Leaders**: 
 
@@ -41,13 +41,17 @@ time
 
 ### The Squirrel Scout Promise
 
-
+I promise to do my best,
+to be kind and helpful,
+and to love God.
 
 ### The Squirrel Scout Motto
 
 **Be Prepared**
 
-- [Badges and Awards]()
+- [Squirrel Activity Badges](https://www.scouts.org.uk/squirrels/activity-badges/)
+
+- [Squirrel Awards](https://www.scouts.org.uk/squirrels/awards/)
 
 - Badge Positions
-  ![Squirrel Badge Positions]()
+  ![Squirrel Badge Positions](https://prod-cms.scouts.org.uk/media/15128/1-squirrel_uniform-diagrams_sept2021_portrait.png)
