@@ -10,4 +10,4 @@ Please note: the email contact address below has been 'amended' to fool the bots
 
 | #   | Name             | Position                               | Email                       |
 | --- | ---------------- | -------------------------------------- | --------------------------- |
-| 1   | Dave G (Skipper) | Group Scout Leader (Scout name - Skip) | dave @ thegillams . co . uk (delete all six spaces in this e/m address before sending!) |
+| 1   | Dave G (Skipper) | Group Lead Volunteer (Scout name - Skipper) | dave @ thegillams . co . uk (delete all six spaces in this e/m address before sending!) |
