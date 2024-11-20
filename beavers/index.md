@@ -2,7 +2,7 @@
 title: "Beavers"
 short_title: "Beavers"
 group: navigation
-order: 20
+order: 30
 ---
 
 ![](/assets/img/scouts/Beaver_RGB_multi.png){:width="300px"}

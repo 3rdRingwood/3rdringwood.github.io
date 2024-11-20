@@ -1,7 +1,7 @@
 ---
 title: "Contact us"
 group: navigation
-order: 70
+order: 80
 ---
 
 ## Contact Us

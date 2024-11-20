@@ -1,7 +1,7 @@
 ---
 title: "Hall Booking"
 group: navigation
-order: 90
+order: 100
 ---
 
 ## Hall Booking

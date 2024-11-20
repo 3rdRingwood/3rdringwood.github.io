@@ -2,7 +2,7 @@
 title: "Smugglers Explorer Scouts"
 short_title: "Explorers"
 group: navigation
-order: 50
+order: 60
 ---
 
 ![](/assets/img/scouts/Explorers_RGB_Blue.png){:width="300px"}
