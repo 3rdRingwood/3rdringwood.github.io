@@ -23,19 +23,17 @@ Thursday 17:15 to 18:30 (or as advised during the pandemic)
 
 ## Leaders
 
-- **Beaver Scout Leader**: Sarah (Nessie). Email <3rdringwoodbeavers@gmail.com>
+- **Beaver Team Leader**: Sarah (Nessie). Email <3rdringwoodbeavers@gmail.com>
 
-* **Assistant Beaver Scout Leader**: David E (Orinoco)
+* **Beaver Team Member**: David E (Orinoco)
 
-* **Assistant Beaver Scout Leader**: Mark K (Tobermory)
+* **Beaver Team Member**: Mark K (Tobermory)
 
-* **Assistant Beaver Scout Leader**: Robyn C (Maddie)
+* **Beaver Team Member**: Robyn C (Maddie)
 
-* **Assistant Beaver Scout Leader**: Charmaine B (Alderney)
+* **Beaver Team Member**: Charmaine B (Alderney)
 
-* **Assistant Beaver Scout Leader**: Tom B (Hoboken)
-
-* **Assistant Beaver Scout Leader**: Stuart (Hirado)
+* **Beaver Team Member**: Tom B (Hoboken)
 
 * **Explorer Young Leaders**: tbc
 
