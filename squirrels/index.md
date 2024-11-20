@@ -25,15 +25,15 @@ Squirrels meet on Friday evenings 5.00 - 6.00pm (occasionally Saturday mornings 
 
 - **Squirrel Team Leader**: Pete D (Peter Rabbit)
 
-* **Squirrel Team Member**: Abigail M ()
+* **Squirrel Team Member**: Abigail M (Nutkin)
 
 * **Squirrel Team Member**: Felicity K (Mopsy)
 
-* **Squirrel Team Member**: Lucy AM ()
+* **Squirrel Team Member**: Lucy AM (Jemima)
 
 * **Squirrel Team Member**: Sue E (Flopsy)
 
-* **Squirrel Team Member**: Claire D ()
+* **Squirrel Team Member**: Claire D (tbc)
 
 * **Explorer Young Leaders**: 
 
