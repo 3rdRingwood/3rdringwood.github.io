@@ -9,4 +9,4 @@ order: 50
 
 Smugglers Explorer Scouts unit meet each week on Monday evenings, 7.00 - 9.00pm - often at Burley Scout HQ.
 
-Use the 'Contact us' page to be put in touch with the Smugglers Explorer Scouts Leader.
+Use the 'Contact us' page to be put in touch with the Smugglers Explorer Scouts Team Leader.
