@@ -11,19 +11,19 @@ order: 40
 
 ## Leaders
 
-- **Scout Leader** - Patrick B (Paddy)
+- **Scout Team Leader** - Patrick B (Paddy)
 
-- **Assistant Scout Leader** - Emma M
+- **Scout Team Member** - Emma M
 
-- **Assistant Scout Leader** - Stephen (Wellie)
+- **Scout Team Member** - Stephen (Wellie)
 
-- **Assistant Scout Leader** - Will H
+- **Scout Team Member** - Will H
 
-- **Assistant Scout Leader** - Pete D
+- **Scout Team Member** - Pete D
 
-- **Section Assistant** - Sam J
+- **Scout Team Member** - Sam J
 
-- **Group Scout Leader** - Dave G (Skipper)
+- **Group Lead Volunteer** - Dave G (Skipper)
 
 ### Scouts meet on Friday evenings 7.00 - 9.00pm (or as advised during the pandemic).
 
