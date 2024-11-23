@@ -5,7 +5,7 @@ group: navigation
 order: 20
 ---
 
-![](/assets/img/scouts/Squirrel_RGB_multi.png){:width="300px"}
+![](/assets/img/scouts/Squirrel_orange.png){:width="300px"}
 
 ## Welcome to 3rd Ringwood Squirrels
 
