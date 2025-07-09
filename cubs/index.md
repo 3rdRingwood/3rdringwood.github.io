@@ -18,8 +18,6 @@ order: 40
 
 - **Cub Team Member** - Sam (Shere Khan)
 
-- **Cub Team Member** - Darren (Kaa)
-
 - **Cub Team Member** - Ann (Bagheera)
 
 - **Cub Team Member** - Emily (Mysa)
@@ -30,7 +28,7 @@ order: 40
 
 ---
 
-### Programme 2024: Parents may view on Online Scout Manager
+### Programme 2025: Parents may view on Online Scout Manager
 
 ---
 
