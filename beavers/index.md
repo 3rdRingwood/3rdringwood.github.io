@@ -13,17 +13,17 @@ order: 30
 
 ## Meeting
 
-Thursday 17:15 to 18:30 (or as advised during the pandemic)
+Thursday 17:15 to 18:30 (or as advised)
 
 ---
 
-### Programme 2024: Parents may view on Online Scout Manager
+### Programme 2026: Parents may view on Online Scout Manager
 
 ---
 
-## Leaders
+## Leaders Email <3rdringwoodbeavers@gmail.com>
 
-- **Beaver Team Leader**: Sarah (Nessie). Email <3rdringwoodbeavers@gmail.com>
+- **Beaver Team Member**: Sarah (Nessie)
 
 * **Beaver Team Member**: David E (Orinoco)
 
@@ -31,19 +31,25 @@ Thursday 17:15 to 18:30 (or as advised during the pandemic)
 
 * **Beaver Team Member**: Robyn C (Maddie)
 
-* **Beaver Team Member**: Charmaine B (Alderney)
+* **Beaver Team Member**: George T (     )
 
-* **Beaver Team Member**: Tom B (Hoboken)
+* **Beaver Team Member**: Jodie P  (    )
 
-* **Explorer Young Leaders**: tbc
+* **Beaver Team Member**: Heather D  (    )
+  
+* **Beaver Team Member**: Joanna M  (    )
+
+* **Beaver Team Member**: Kate BM  (    )
+
+* **Explorer Young Leaders**: Monty
 
 ## Useful Information and Links
 
 ### The Beaver Scout Promise
 
 I promise to do my best  
- To be kind and helpful  
- And to love God.
+To be kind and helpful  
+And to love God.
 
 ### The Beaver Scout Motto
 
