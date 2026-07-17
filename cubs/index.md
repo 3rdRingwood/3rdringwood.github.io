@@ -16,11 +16,7 @@ order: 40
 
 - **Cub Team Member** - Faye (Baloo)
 
-- **Cub Team Member** - Sam (Shere Khan)
-
 - **Cub Team Member** - Ann (Bagheera)
-
-- **Cub Team Member** - Emily (Mysa)
 
 ## Useful Information and Links
 
