@@ -24,7 +24,7 @@ order: 40
 
 ---
 
-### Programme 2025: Parents may view on Online Scout Manager
+### Programme 2026: Parents may view on Online Scout Manager
 
 ---
 
