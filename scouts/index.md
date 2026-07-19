@@ -17,8 +17,6 @@ order: 50
 
 - **Scout Team Member** - Stephen (Wellie)
 
-- **Scout Team Member** - Will H
-
 - **Scout Team Member** - Pete D
 
 - **Scout Team Member** - Sam J
@@ -27,7 +25,7 @@ order: 50
 
 ### Scouts meet on Friday evenings 7.00 - 9.00pm (or as advised during the pandemic).
 
-### Programme 2024: Parents may view on Online Scout Manager
+### Programme 2026: Parents may view on Online Scout Manager
 
 ## [Click *here* for Scout Activity Badges](https://www.scouts.org.uk/scouts/activity-badges/)
 
