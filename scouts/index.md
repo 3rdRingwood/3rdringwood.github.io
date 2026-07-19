@@ -23,7 +23,7 @@ order: 50
 
 - **Group Lead Volunteer** - Dave G (Skipper)
 
-### Scouts meet on Friday evenings 7.00 - 9.00pm (or as advised during the pandemic).
+### Scouts meet on Friday evenings 7.00 - 9.00pm (or as advised).
 
 ### Programme 2026: Parents may view on Online Scout Manager
 
