@@ -17,7 +17,7 @@ Squirrels meet on Friday evenings 5.00 - 6.00pm (occasionally Saturday mornings 
 
 ---
 
-### Programme 2024: Parents may view on Online Scout Manager
+### Programme 2026: Parents may view on Online Scout Manager
 
 ---
 
