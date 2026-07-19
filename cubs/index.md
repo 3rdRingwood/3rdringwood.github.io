@@ -10,7 +10,9 @@ order: 40
 
 ## Leaders
 
-- **Cub Team Leader** - David R (Akela)
+- **Cub Team Leader** - Vacant (Akela)
+
+- **Cub Team Member** - David R (Ziggy)
 
 - **Cub Team Member** - Angela (Raksha)
 
