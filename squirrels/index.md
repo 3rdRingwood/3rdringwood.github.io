@@ -13,7 +13,7 @@ order: 20
 
 ## Meeting
 
-Squirrels meet on Friday evenings 5.00 - 6.00pm (occasionally Saturday mornings - as advised)
+Squirrels meet on Friday evenings 5.00 - 6.00pm
 
 ---
 
