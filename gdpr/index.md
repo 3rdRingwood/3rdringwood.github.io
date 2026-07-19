@@ -24,7 +24,7 @@ In Scouts, DP applies to the lists of young people, adults and any other people 
 
 #### Formal Contact
 
-3rd Ringwood Scout Group is the Data Controller. The contact address is The Chairperson, 3rd Ringwood Scout Group, Hightown Community Hall, 88 Eastfield Lane, Ringwood, Hants BH24 1UR or by email <acsduncan@hotmail.com>
+3rd Ringwood Scout Group is the Data Controller. The contact address is The Chairperson, 3rd Ringwood Scout Group, Hightown Community Hall, 88 Eastfield Lane, Ringwood, Hants BH24 1UR or by email <jackie_noakes47@yahoo.co.uk>
 
 3rd Ringwood Scout Group processes personal data using paper and electronic systems. It works with partner data processors including The Scout Association, OSM, GoCardless and Dropbox. 3rd Ringwood Scout Group has determined that the partner organisation data processing on its behalf is compliant with GDPR as far as it can assess.
 
