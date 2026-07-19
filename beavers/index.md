@@ -23,8 +23,6 @@ Thursday 17:15 to 18:30 (or as advised)
 
 ## Leaders Email <3rdringwoodbeavers@gmail.com>
 
-- **Beaver Team Member**: Sarah (Nessie)
-
 * **Beaver Team Member**: David E (Orinoco)
 
 * **Beaver Team Member**: Mark K (Tobermory)
@@ -41,7 +39,7 @@ Thursday 17:15 to 18:30 (or as advised)
 
 * **Beaver Team Member**: Kate BM  (    )
 
-* **Explorer Young Leaders**: Monty
+* **Explorer Young Leaders**: 
 
 ## Useful Information and Links
 
