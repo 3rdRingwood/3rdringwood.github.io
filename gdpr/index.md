@@ -176,6 +176,6 @@ This Policy will be reviewed periodically as any changes in regulations or best 
 
 #### Agreed
 
-This Policy was agreed by the 3rd Ringwood Scout Group Executive on 21st May 2018
+This Policy was agreed by the 3rd Ringwood Scout Group Executive on 4th July 2025
 
-Signed: Alastair Duncan........Chairman         Date:   21st May 2018
+Signed: Jackie Noakes........Chairperson         Date:   4th July 2025
