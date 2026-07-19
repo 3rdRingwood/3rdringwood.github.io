@@ -96,7 +96,7 @@ The 3rd Ringwood Scout Group is a member of The Scout Association and complies w
 
 #### Subject Access
 
-Any person who is the subject of personal data held by the Group may make a subject access request by contacting the Chairman. The request will be processed in accordance with current regulation.
+Any person who is the subject of personal data held by the Group may make a subject access request by contacting the Chairperson. The request will be processed in accordance with current regulation.
 
 Adults may access their personal data by logging into Compass. Adults are encouraged to keep this up-to-date themselves.
 
@@ -126,7 +126,7 @@ To **move, copy or transfer** your personal data: the 3rd Ringwood Scout Group
 
 #### Questions about Data Protection or the use of Personal Data
 
-Any questions or comments about data protection or this policy, notwithstanding your rights above, should be addressed to the 3rd Ringwood Scout Group Chairman (or Data Protection officer) at 3rd Ringwood Scout Group, Hightown Community Hall, 88 Eastfield Lane, Ringwood, Hants BH24 1UR
+Any questions or comments about data protection or this policy, notwithstanding your rights above, should be addressed to the 3rd Ringwood Scout Group Chairperson (or Data Protection officer) at 3rd Ringwood Scout Group, Hightown Community Hall, 88 Eastfield Lane, Ringwood, Hants BH24 1UR
 
 #### Adult Members Personal records
 
@@ -134,7 +134,7 @@ The personal membership profile of each member is kept on Compass. It is the res
 
 #### Internal and Other Directories
 
-The compilation of any directory must have the approval of the executive committee. Directories must only contain the information that is specifically consented to include. The request for consent must include information about access to or distribution of the directory. The directory must be kept-up to date by a named person.
+The compilation of any directory must have the approval of the Board of Trustees. Directories must only contain the information that is specifically consented to include. The request for consent must include information about access to or distribution of the directory. The directory must be kept-up to date by a named person.
 
 #### Programme, Activity and Training Registration
 
@@ -176,6 +176,6 @@ This Policy will be reviewed periodically as any changes in regulations or best 
 
 #### Agreed
 
-This Policy was agreed by the 3rd Ringwood Scout Group Executive on 4th July 2025
+This Policy was agreed by the 3rd Ringwood Scout Group Board of Trustees on 4th July 2025
 
 Signed: Jackie Noakes........Chairperson         Date:   4th July 2025
