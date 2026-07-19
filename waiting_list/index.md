@@ -7,13 +7,13 @@ order: 10
 
 ## Waiting List Policy
 
-Due to the popularity and demand from children wishing to take one of the limited places in 3rd Ringwood Scout Group, and to help us manage the fluctuating numbers of children moving between our Squirrel, Beaver, Cub and Scout sections, we are obliged to operate a 'Waiting List Policy' for applicants wishing to join the Group.
+Due to the overwhelming demand from children wishing to join 3rd Ringwood Scout Group, and to ensure capacity exists for all current members progressing upwards between our Squirrel, Beaver, Cub and Scout sections, we are obliged to operate a 'Waiting List Policy' for applicants wishing to join the Group.
 
 Any spaces becoming available within the Group will be allocated in the following order of priority to children:
 
-1.  Who are existing members of the Group moving between sections.
+1.  Who are current members of the Group progressing between sections.
 
-2.  Of current uniformed Leaders and formal Section Assistants, Instructors and other key roles within the Group, including new adults joining the Group in these roles.
+2.  Of current uniformed Team Leaders and Team Members, Instructors and other key adult roles within the Group, including new adults joining the Group in these roles.
 
     _Note: Parents coming into the Group need to commit to taking up their role before their child is accepted._
 
