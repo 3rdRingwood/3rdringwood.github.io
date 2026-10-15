@@ -8,7 +8,7 @@ order: 100
 
 Please click the following link to contact the hall booking secretary - [Ann](mailto:ann@thegillams.co.uk?subject=Hall%20booking)
 
-The hall was modernised and redecorated a few years ago and will be redecorated again shortly, making it a clean and attractive venue to hire for children’s parties, receptions, social events, clubs, meetings, dancing classes, martial arts, and other activities.
+The hall was modernised and redecorated a few years ago and has been redecorated again this summer (2026), making it a clean and attractive venue to hire for children’s parties, receptions, social events, clubs, meetings, dancing classes, martial arts, and other activities.
 
 The main hall measures approximately 11.35 metres x 7.1 metres. It is well lit, with sound dampening acoustic baffles, a modern heating system, double glazed windows, roller blinds, wooden floor, lightweight folding tables, 60 stacking chairs, plenty of electric sockets, etc.
 
