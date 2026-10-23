@@ -37,7 +37,6 @@ Thursday 17:15 to 18:30 (or as advised)
   
 * **Beaver Team Member**: Joanna M  (    )
 
-* **Beaver Team Member**: Kate BM  (    )
 
 * **Explorer Young Leaders**: 
 
