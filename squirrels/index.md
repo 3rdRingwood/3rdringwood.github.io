@@ -27,7 +27,7 @@ Squirrels meet on Friday evenings 5.00 - 6.00pm
 
 * **Squirrel Team Member**: Rebecca M
 
-* **Squirrel Team Member**: Sophie M
+* **Squirrel Team Member**: Tom D
 
 * **Squirrel Team Member**: Leah H
 
